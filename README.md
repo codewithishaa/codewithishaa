@@ -1,17 +1,15 @@
-Hey there I'm Isha Borgaonkar 😁
+## Hey there I'm Isha Borgaonkar 😁
 
-🔭 I am persuing masters degree in Data and compuational science at Uinversity College Dublin, Ireland 
+I am a Software Developer and Data Science professional with an MSc in Data & Computational Science from University College Dublin. I am eligible to work in Ireland and do not require visa sponsorship.
 
-🔭 I have completed my bachelors degree in Computer Engineering at Dr. D. Y Patil Institute Of Technology, Pune.
+I have experience across AI/ML, data science, full-stack development, cloud-based applications, and analytics. My projects focus on building practical, real-world solutions using technologies such as Python, JavaScript, TypeScript, React, Next.js, Node.js, SQL, Supabase, Streamlit, and machine learning frameworks.
 
-🖥️ Exploring whatever I find interesting.
+I enjoy creating intelligent, scalable, and user-focused applications that combine software engineering, data analytics, and artificial intelligence.
 
-📫 Reach out to me on LinkedIn https://www.linkedin.com/in/isha-m-borgaonkar-377b5a16b/ 
+## Connect With Me
 
-⚡ I completed my A2 certification in German Language from Goethe Instutute. 
-
-⚡ Fun fact: I love to play guitar, draw paintings, dance Kathak and to play chess.
-
+- Portfolio: https://ishaborgaonkar.com/
+- LinkedIn: https://www.linkedin.com/in/isha-m-borgaonkar-377b5a16b/
 
 <!---
 ishaborgaonkar05/ishaborgaonkar05 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
